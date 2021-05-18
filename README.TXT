@@ -3,8 +3,8 @@ BUILD OUTPUT DESCRIPTION
 ========================
 
 PROCESS:
-First, the automatic test registration will automatically log in if it meets the requirements. 
-The second step is to automatically test the form information after logging in. If the requirements are met, it will automatically enter the staff interface to view the submitted form
+First, automatically test registration, it will automatically log in if it meets the requirements. 
+The second step, automatically test the form information after logging in. If the requirements are met, it will automatically enter the staff interface to view the submitted form
 
 REQUIREMENTS:
 
